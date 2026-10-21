@@ -11,10 +11,7 @@ streamlit run app.py
 ```
 
 ## Deploy online
-1. Upload `app.py`, `requirements.txt`, and this README to a GitHub repository.
-2. Visit https://share.streamlit.io/ and sign in with GitHub.
-3. Create an app, select your repository, and set `app.py` as the main file.
-4. Deploy and wait for dependencies and the embedding model to download.
+https://customer-voice-ai-ehxvmnaysbkwvcatw6vqvz.streamlit.app/
 
 ## Features
 - CSV and Excel table upload and preview
