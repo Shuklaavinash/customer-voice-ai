@@ -8,7 +8,7 @@ The project uses sentiment analysis and semantic search techniques to identify p
 
 The long-term goal is to build a user-friendly AI-powered website where customers and business teams can upload their own analysis files or reports, ask questions about their data, and receive useful insights.
 
-**Live Website:** [Add your deployed Streamlit website URL here]
+Live Website: https://customer-voice-ai-ehxvmnaysbkwvcatw6vqvz.streamlit.app/
 
 ## Features
 
@@ -22,7 +22,7 @@ The long-term goal is to build a user-friendly AI-powered website where customer
 * Interactive Data Visualizations
 * CSV Export of Analysis Results
 * Streamlit-Based Web Interface
-* Support for Uploaded Customer Feedback Data *(depending on the file format and current website implementation)*
+* Support for Uploaded Customer Feedback Data 
 
 ## Machine Learning Techniques
 
